@@ -1,0 +1,11 @@
+F:\seesharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.deps.json
+F:\seesharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.json
+F:\seesharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.dev.json
+F:\seesharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.dll
+F:\seesharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.pdb
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.csprojAssemblyReference.cache
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.csproj.CoreCompileInputs.cache
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfoInputs.cache
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfo.cs
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.dll
+F:\seesharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.pdb
